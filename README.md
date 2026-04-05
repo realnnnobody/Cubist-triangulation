@@ -2,6 +2,11 @@
 
 A Python image-processing project that transforms an input image into a cubist, triangulated-style result.
 
+
+| ![](input.png)  | ![](output.png)  |
+|-----------------|------------------|
+| ![](input2.png) | ![](output2.png) |
+
 ## Requirements
 
 - Python 3.12.3
