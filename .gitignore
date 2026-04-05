@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+__pycache__/
+
+# Logs
+*.log
+1/
+
+# Test
+1_triangulated.png
+test.py
